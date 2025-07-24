@@ -1,0 +1,1 @@
+# Comparative-Study-and-Implementation-of-Popular-OCR-Systems-Tesseract-TrOCR-olmOCR-RolmOCR
